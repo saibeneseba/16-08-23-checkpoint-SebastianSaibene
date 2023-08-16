@@ -1,0 +1,52 @@
+  316  git init
+  317  git config username "16AGOSTO2023 Checkpoint-Sebastian Saibene"
+  318  git config user name "16-08-23 checkpoint-SebastianSaibene"
+  319  git config username "16-08-23 checkpoint-SebastianSaibene"
+  320  git configusername "16-08-23 checkpoint-SebastianSaibene"
+  321  git config -username "16-08-23 checkpoint-SebastianSaibene"
+  322  git config --username "16-08-23 checkpoint-SebastianSaibene"
+  323  git config user.name "16-08-23 checkpoint-SebastianSaibene"
+  324  git add .
+  325  git commit "01 SebastianSaibene"
+  326  git commit "01 de SebastianSaibene"
+  327  touch prueba
+  328  git commit "01 de SebastianSaibene"
+  329  git add .
+  330  git commit "01 de SebastianSaibene"
+  331  git commit -m "01 de SebastianSaibene"
+  332  touch main.js
+  333  touch index.html
+  334  git commit -m "02 de SebastianSaibene"
+  335  git add .
+  336  git commit -m "02 de SebastianSaibene"
+  337  git push
+  338  git push https://github.com/saibeneseba/16-08-23-checkpoint-SebastianSaibene
+  339  git push --set-upstream https://github.com/saibeneseba/16-08-23-checkpoint-SebastianSaibene main
+  340  git checkout -b feature
+  341  mkdir Hardware
+  342  mkdir Software
+  343  mkdir SeguridadInformatica
+  344  cd Hardware/
+  345  touch resument.txt
+  346  cd ..
+  347  cd Software/
+  348  touch resumen.txt
+  349  cd ..
+  350  cd SeguridadInformatica/
+  351  touch resumen.txt
+  352  cd ..
+  353  git add .
+  354  git push
+  355  git commit -m "03 de SebastianSaibene"
+  356  git push
+  357  git push main
+  358  git push https://github.com/saibeneseba/16-08-23-checkpoint-SebastianSaibene
+  359  git push https://github.com/saibeneseba/16-08-23-checkpoint-SebastianSaibene feature
+  360  mv main.js resumenHardware.txt
+  361  mv index.html resumenSoftware.txt
+  362  cd resumenSoftware.txt
+  363  touch comandos.txt
+  364  history
+  365  history 20
+  366  history 50
+  367  history 100
